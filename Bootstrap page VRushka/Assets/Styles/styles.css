@@ -1,0 +1,80 @@
+        .cart,
+        .buy {
+            color: white;
+            border-radius: 30px;
+            background-color: #5222D0;
+        }
+
+        .carticon {
+            width: 20px;
+            height: 20px;
+        }
+
+        .container-fluid {
+            width: 1400px;
+        }
+
+        .header {
+            height: 40px;
+        }
+
+        .main {
+            height: 620px;
+            padding-left: 50px;
+        }
+
+        .title1,
+        h1 {
+            font: bold 60px 'Roboto', sans-serif;
+            line-height: 72px;
+            padding-top: 55px;
+        }
+
+        .cardtext {
+            font: 17px 'Roboto', sans-serif;
+            line-height: 26px;
+            padding-top: 20px;
+        }
+
+        .buy {
+            font: 35px 'Roboto', sans-serif;
+        }
+
+        .pic {
+            position: absolute;
+        }
+
+        .nav-link {
+            font: 15px 'Roboto', sans-serif;
+            color: #5222D0;
+        }
+
+        .nav {
+            height: 70px;
+        }
+
+        .nav2 {
+            color: black;
+        }
+
+        .card {
+            border: none;
+        }
+
+        .news {
+            color: white;
+            height: 150px;
+            background-color: #EC615B;
+        }
+
+        .container2 {
+            width: 1250px;
+        }
+
+        h1 {
+            padding-bottom: 20px;
+        }
+
+        .row3 {
+            margin-top: 20px;
+        }
